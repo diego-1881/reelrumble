@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reelrumble/static/css/main.0ed04190.css",
+    "main.js": "/reelrumble/static/js/main.0640847b.js",
+    "index.html": "/reelrumble/index.html",
+    "main.0ed04190.css.map": "/reelrumble/static/css/main.0ed04190.css.map",
+    "main.0640847b.js.map": "/reelrumble/static/js/main.0640847b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed04190.css",
+    "static/js/main.0640847b.js"
+  ]
+}
