@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reelrumble/static/css/main.0ed04190.css",
-    "main.js": "/reelrumble/static/js/main.0640847b.js",
+    "main.css": "/reelrumble/static/css/main.24e71876.css",
+    "main.js": "/reelrumble/static/js/main.8b4c49ee.js",
     "index.html": "/reelrumble/index.html",
-    "main.0ed04190.css.map": "/reelrumble/static/css/main.0ed04190.css.map",
-    "main.0640847b.js.map": "/reelrumble/static/js/main.0640847b.js.map"
+    "main.24e71876.css.map": "/reelrumble/static/css/main.24e71876.css.map",
+    "main.8b4c49ee.js.map": "/reelrumble/static/js/main.8b4c49ee.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ed04190.css",
-    "static/js/main.0640847b.js"
+    "static/css/main.24e71876.css",
+    "static/js/main.8b4c49ee.js"
   ]
 }
